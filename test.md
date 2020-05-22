@@ -14,7 +14,7 @@
 
 ***
 
-![风景图](.\timg.jpg)
+![风景图](timg.jpg)
 
 [简书](http://jianshu.com)
 
