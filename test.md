@@ -14,7 +14,7 @@
 
 ***
 
-![风景图](C:\Users\linshi\Desktop\timg.jpg "风景图")
+![风景图](.\timg.jpg "风景图")
 
 [简书](http://jianshu.com)
 
